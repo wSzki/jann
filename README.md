@@ -1,10 +1,6 @@
 
 
 
-
-Hello Jeffrey 
-
-
 # About InDesign
 
 You mentionned InDesign which is in my opinion great for building websites mockups, but I find it terrible for generating websites.
