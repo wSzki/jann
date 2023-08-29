@@ -46,7 +46,6 @@ From which you can access all medias (images, pictures) and all projects
 ### Pages content (BLUE)
 Where you define the content of the page, by using content from the data pool,
 or adding the content directly if they aren't already stored in the pool
-![projects](./projects.mp4)
 
 <video width="320" height="240" controls>
   <source src="./projects.mp4" type="video/mp4">
