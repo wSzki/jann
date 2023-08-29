@@ -68,6 +68,7 @@ Here is how it works; there are 2 main sections :
 
 ### The data pool (RED)
 From which you can access all medias (images, pictures) and all projects
+
 <video width="320" height="240" controls>
   <source src="./pool.mkv" type="video/mp4">
 </video>
@@ -77,9 +78,13 @@ From which you can access all medias (images, pictures) and all projects
 Where you define the content of the page, by using content from the data pool,
 or adding the content directly if they aren't already stored in the pool
 
-<video width="320" height="240" controls>
-  <source src="./projects.mp4" type="video/mp4">
-</video>
+
+https://github.com/wSzki/jann/assets/59784520/ce326c25-d8cf-4bda-a2d2-26a56c055319
+
+
+
+https://github.com/wSzki/jann/assets/59784520/c57802ee-601f-46ca-a8d0-03a5b798088a
+
 
 
 
@@ -100,6 +105,11 @@ I'll send you the guest login and password via e-mail
 ## Contentful CMS
 
 Basically the same thing but much less flexible
-![projects](./contentful.mp4)
+
+
+
+
+
+https://github.com/wSzki/jann/assets/59784520/c91f4126-6823-4dab-9637-f68c9fdee6f6
 
 
