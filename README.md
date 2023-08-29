@@ -57,6 +57,8 @@ Payload on the other hand is an open source self hosted CMS, but isn't free to u
 ---
 ---
 
+# Presentation of Payload and Contentful
+
 ## Payload CMS
 
 Here is how it works; there are 2 main sections :
