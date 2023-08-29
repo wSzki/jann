@@ -69,9 +69,8 @@ Here is how it works; there are 2 main sections :
 ### The data pool (RED)
 From which you can access all medias (images, pictures) and all projects
 
-<video width="320" height="240" controls>
-  <source src="./pool.mkv" type="video/mp4">
-</video>
+
+https://github.com/wSzki/jann/assets/59784520/ce326c25-d8cf-4bda-a2d2-26a56c055319
 
 
 ### Pages content (BLUE)
@@ -79,7 +78,6 @@ Where you define the content of the page, by using content from the data pool,
 or adding the content directly if they aren't already stored in the pool
 
 
-https://github.com/wSzki/jann/assets/59784520/ce326c25-d8cf-4bda-a2d2-26a56c055319
 
 
 
