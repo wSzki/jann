@@ -37,6 +37,9 @@ So all the pages from the front end are generated dynamically from the data in t
 
 Below are 2 CMS listed, Payload and Contentful
 
+
+### Contentful
+
 Contentful is a proprietary "working-out-of-the-box" (very little dev required) CMS which offers a free tier with good performance but a limited set of features
 
 A potential issue is that like any other free software product, the company can decide to kill it whenever they want (although unlikely to happen soon),
@@ -44,6 +47,8 @@ in which case the only solution would be to rebuild a back office with something
 I just want to make it clear that if you choose the free plan, I cannot guarantee that it will work forever
 
 ---
+
+### Payload
 
 Payload on the other hand is an open source self hosted CMS, but isn't free to use, and requires some development
 (Self hosted implies server fees of 20 euros/month, which includes the development of the back-office and its maintenance)
