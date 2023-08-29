@@ -38,12 +38,20 @@ Here is how it works; there are 2 main sections :
 
 ### The data pool (RED)
 From which you can access all medias (images, pictures) and all projects
-![data_pool](./pool.mkv)
+<video width="320" height="240" controls>
+  <source src="./pool.mkv" type="video/mp4">
+</video>
+
 
 ### Pages content (BLUE)
 Where you define the content of the page, by using content from the data pool,
 or adding the content directly if they aren't already stored in the pool
 ![projects](./projects.mp4)
+
+<video width="320" height="240" controls>
+  <source src="./projects.mp4" type="video/mp4">
+</video>
+
 
 ---
 
