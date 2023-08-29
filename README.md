@@ -20,6 +20,8 @@ Similar "no-code" tools like Wix, SquareSpace, Webflow, are good tools for build
 On the other hand, one advantage of these tools is that you can edit the layout of the website directly from within the back-office.
 But this advantage is mostly due to the fact that everything is pretty much a template, or blocks of templates.
 
+---
+---
 
 # "Headless" Back office (CMS)
 
@@ -31,6 +33,29 @@ So the alternative that I use is a "headless CMS (content management system)", a
 The front end of the website then automatically fetches the data from the back office to display it.
 So all the pages from the front end are generated dynamically from the data in the back office.
 
+---
+
+Below are 2 CMS listed, Payload and Contentful
+
+Contentful is a proprietary "working-out-of-the-box" (very little dev required) CMS which offers a free tier with good performance but a limited set of features
+
+A potential issue is that like any other free software product, the company can decide to kill it whenever they want (although unlikely to happen soon),
+in which case the only solution would be to rebuild a back office with something else as the paid plan starts at a whopping 500 euros / month
+I just want to make it clear that if you choose the free plan, I cannot guarantee that it will work forever
+
+---
+
+Payload on the other hand is an open source self hosted CMS, but isn't free to use, and requires some development
+(Self hosted implies server fees of 20 euros/month, which includes the development of the back-office and its maintenance)
+
+- Better UX
+- It has a mobile mode, so you can update your website via your phone (a rare feature)
+- It has image processing and optimization for faster loading times on mobile, which might be interesting considering the volume of photos you want to upload
+- Full ownership, and will work forever as long as the server is running
+
+---
+---
+
 ## Payload CMS
 
 Here is how it works; there are 2 main sections :
@@ -38,27 +63,20 @@ Here is how it works; there are 2 main sections :
 
 ### The data pool (RED)
 From which you can access all medias (images, pictures) and all projects
-
-
-
-
-https://github.com/wSzki/jann/assets/59784520/5cecd42f-f2dd-49f5-8163-d80ddae0256b
-
-
+<video width="320" height="240" controls>
+  <source src="./pool.mkv" type="video/mp4">
+</video>
 
 
 ### Pages content (BLUE)
 Where you define the content of the page, by using content from the data pool,
 or adding the content directly if they aren't already stored in the pool
 
+<video width="320" height="240" controls>
+  <source src="./projects.mp4" type="video/mp4">
+</video>
 
 
-https://github.com/wSzki/jann/assets/59784520/d29809b6-fc43-42cb-b283-02b714b14b5c
-
-
-
-
----
 
 Here are some other screenshot that may help you understand what's going on
 ![projects](./two.png)
@@ -71,11 +89,12 @@ https://cms.studiosamuel.fr
 
 I'll send you the guest login and password via e-mail
 
+---
+---
+
 ## Contentful CMS
 
 Basically the same thing but much less flexible
-
-https://github.com/wSzki/jann/assets/59784520/51e98667-aa78-4b73-a412-6a7053563199
-
+![projects](./contentful.mp4)
 
 
