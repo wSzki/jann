@@ -1,7 +1,7 @@
 
-================================================================
+=================================================================
 Back End                                            : TOTAL : 16h
-================================================================
+=================================================================
 
 Server :                                            : Total : 3h
     - Operating system setup on the server          : 1.5h
@@ -16,9 +16,9 @@ Server :                                            : Total : 3h
     - Payload deployment                            : Total : 1h
       - Deployment with Docker and Nginx            : 1h
 
-================================================================
+=================================================================
 Front End                                           : TOTAL : 47h
-================================================================
+=================================================================
 
     Global :                                        : Total : 6h
         - Project setup with React                  : 1h
@@ -28,18 +28,28 @@ Front End                                           : TOTAL : 47h
     Reel :                                          : Total : 12h
         - Link to the back end and data parsing     : 2h
         - Image Grid setup                          : 8h
-        - Testing and bugfixes                      : 2h
+        - Testing and bugfixes*                     : 2h
 
     Info :                                          : Total : 7h
         - Link to the back end and data parsing     : 1h
         - Page layout setup                         : 4h
-        - Testing and bugfixes                      : 2h
+        - Testing and bugfixes*                     : 2h
 
     Home :                                          : Total : 22h
         - Link to the back end and data parsing     : 2h
         - Page layout setup                         : 16h
-        - Testing and bugfixes                      : 4h
+        - Testing and bugfixes*                     : 4h
 
-================================================================
+=================================================================
 TOTAL                                               : TOTAL : 63h
-================================================================
+=================================================================
+
+*Testing and bugfixes on
+    - Safari  iOS
+    - Safari  MacOS
+    - Chrome  Android
+    - Chrome  Desktop
+    - Firefox Android
+    - Firefox Desktop
+
+Note : Chrome and Firefox on iOS are just skins of Safari
