@@ -1,45 +1,45 @@
 
 ================================================================
-Back End                                           : TOTAL : 16h
+Back End											: TOTAL : 16h
 ================================================================
 
-Server :                                           : Total : 3h 
-	- Operating system setup on the server         : 1.5h
-    - Setup of core programs (Docker, Nginx, Node) : 1.5h
+Server :                                          	: Total : 3h 
+	- Operating system setup on the server        	: 1.5h
+	- Setup of core programs (Docker, Nginx, Node)	: 1.5h
 
-	- Payload setup                                : Total : 12h
-		Creation and setup of data structure       : 8h
-		Testing - security and connections         : 2h
-		Bulk media upload                          : 1.5h
-		Setting up automatic daily backups         : 0.5h
+	- Payload setup                               	: Total : 12h
+		Creation and setup of data structure      	: 8h
+		Testing - security and connections        	: 2h
+		Bulk media upload                         	: 1.5h
+		Setting up automatic daily backups        	: 0.5h
 
-	- Payload deployment                           : Total : 1h
-		Deployment with Docker and Nginx           : 1h
-
-================================================================
-Front End                                          : TOTAL : 47h
-================================================================
-
-	Global :                                       : Total : 6h
-		- Project setup with React                 : 1h
-		- Page layout setup (Core layout + CSS)    : 4h
-		- Deployment to vercel                     : 1h
-
-	Reel :                                         : Total : 12h
-		- Link to the back end and data parsing    : 2h
-		- Image Grid setup                         : 8h
-		- Testing and bugfixes                     : 2h
-
-	Info :                                         : Total : 7h
-		- Link to the back end and data parsing    : 1h
-		- Page layout setup                        : 4h
-		- Testing and bugfixes                     : 2h
-
-	Home :                                         : Total : 22h
-		- Link to the back end and data parsing    : 2h
-		- Page layout setup                        : 16h
-		- Testing and bugfixes                     : 4h
+	- Payload deployment                          	: Total : 1h
+		Deployment with Docker and Nginx          	: 1h
 
 ================================================================
-TOTAL                                              : TOTAL : 63h
+Front End											: TOTAL : 47h
+================================================================
+
+	Global :                                   		: Total : 6h
+		- Project setup with React             		: 1h
+		- Page layout setup (Core layout + CSS)		: 4h
+		- Deployment to vercel                 		: 1h
+
+	Reel :                                     		: Total : 12h
+		- Link to the back end and data parsing		: 2h
+		- Image Grid setup                     		: 8h
+		- Testing and bugfixes                 		: 2h
+
+	Info :                                     		: Total : 7h
+		- Link to the back end and data parsing		: 1h
+		- Page layout setup                    		: 4h
+		- Testing and bugfixes                 		: 2h
+
+	Home :                                     		: Total : 22h
+		- Link to the back end and data parsing		: 2h
+		- Page layout setup                    		: 16h
+		- Testing and bugfixes                 		: 4h
+
+================================================================
+TOTAL												: TOTAL : 63h
 ================================================================
